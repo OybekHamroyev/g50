@@ -1,3 +1,4 @@
 master yozdi
 diyor yozdi
-diyorni ishi
+diyorni ishi masterni ishi
+
